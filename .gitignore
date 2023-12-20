@@ -30,6 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Personalizado - Arquivos inúteis do projeto
+
 bin/Debug/net8.0/C-Sharp-with-Avanade-Bootcamp.deps.json
 bin/Debug/net8.0/C-Sharp-with-Avanade-Bootcamp.pdb
 bin/Debug/net8.0/C-Sharp-with-Avanade-Bootcamp.runtimeconfig.json

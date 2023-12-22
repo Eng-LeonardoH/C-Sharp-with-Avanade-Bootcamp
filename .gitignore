@@ -73,3 +73,140 @@ Fundamentos/obj/Debug/net8.0/C-Sharp-with-Avanade-Bootcamp.genruntimeconfig.cach
 Fundamentos/obj/Debug/net8.0/C-Sharp-with-Avanade-Bootcamp.GlobalUsings.g.cs
 Fundamentos/obj/Debug/net8.0/C-Sharp-with-Avanade-Bootcamp.pdb
 Fundamentos/obj/Debug/net8.0/C-Sharp-with-Avanade-Bootcamp.sourcelink.json
+IF/bin/Debug/net8.0/if.deps.json
+IF/bin/Debug/net8.0/if.pdb
+IF/bin/Debug/net8.0/if.runtimeconfig.json
+IF/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+IF/obj/Debug/net8.0/if.AssemblyInfo.cs
+IF/obj/Debug/net8.0/if.AssemblyInfoInputs.cache
+IF/obj/Debug/net8.0/if.assets.cache
+IF/obj/Debug/net8.0/if.csproj.CoreCompileInputs.cache
+IF/obj/Debug/net8.0/if.csproj.FileListAbsolute.txt
+IF/obj/Debug/net8.0/if.GeneratedMSBuildEditorConfig.editorconfig
+IF/obj/Debug/net8.0/if.genruntimeconfig.cache
+IF/obj/Debug/net8.0/if.GlobalUsings.g.cs
+IF/obj/Debug/net8.0/if.pdb
+IF/obj/Debug/net8.0/if.sourcelink.json
+IF/obj/if.csproj.nuget.dgspec.json
+IF/obj/project.assets.json
+IF/obj/project.nuget.cache
+Operadores/Lógicos/bin/Debug/net8.0/SwitchCase.deps.json
+Operadores/Lógicos/bin/Debug/net8.0/SwitchCase.pdb
+Operadores/Lógicos/bin/Debug/net8.0/SwitchCase.runtimeconfig.json
+Operadores/Lógicos/obj/project.assets.json
+Operadores/Lógicos/obj/project.nuget.cache
+Operadores/Lógicos/obj/SwitchCase.csproj.nuget.dgspec.json
+Operadores/Lógicos/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+Operadores/Lógicos/obj/Debug/net8.0/SwitchCase.AssemblyInfo.cs
+Operadores/Lógicos/obj/Debug/net8.0/SwitchCase.AssemblyInfoInputs.cache
+Operadores/Lógicos/obj/Debug/net8.0/SwitchCase.assets.cache
+Operadores/Lógicos/obj/Debug/net8.0/SwitchCase.csproj.CoreCompileInputs.cache
+Operadores/Lógicos/obj/Debug/net8.0/SwitchCase.csproj.FileListAbsolute.txt
+Operadores/Lógicos/obj/Debug/net8.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+Operadores/Lógicos/obj/Debug/net8.0/SwitchCase.genruntimeconfig.cache
+Operadores/Lógicos/obj/Debug/net8.0/SwitchCase.GlobalUsings.g.cs
+Operadores/Lógicos/obj/Debug/net8.0/SwitchCase.pdb
+Operadores/Lógicos/obj/Debug/net8.0/SwitchCase.sourcelink.json
+Operadores/bin/Debug/net8.0/Operadores.deps.json
+Operadores/bin/Debug/net8.0/Operadores.pdb
+Operadores/bin/Debug/net8.0/Operadores.runtimeconfig.json
+Operadores/bin/Debug/net8.0/Operadores.deps.json
+Operadores/bin/Debug/net8.0/Operadores.pdb
+Operadores/bin/Debug/net8.0/Operadores.runtimeconfig.json
+Operadores/Matemáticos e de atribuição/bin/Debug/net8.0/Operadores.deps.json
+Operadores/Matemáticos e de atribuição/bin/Debug/net8.0/Operadores.pdb
+Operadores/Matemáticos e de atribuição/bin/Debug/net8.0/Operadores.runtimeconfig.json
+Operadores/Matemáticos e de atribuição/obj/Operadores.csproj.nuget.dgspec.json
+Operadores/Matemáticos e de atribuição/obj/project.assets.json
+Operadores/Matemáticos e de atribuição/obj/project.nuget.cache
+Operadores/Matemáticos e de atribuição/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+Operadores/Matemáticos e de atribuição/obj/Debug/net8.0/Operadores.AssemblyInfo.cs
+Operadores/Matemáticos e de atribuição/obj/Debug/net8.0/Operadores.AssemblyInfoInputs.cache
+Operadores/Matemáticos e de atribuição/obj/Debug/net8.0/Operadores.assets.cache
+Operadores/Matemáticos e de atribuição/obj/Debug/net8.0/Operadores.csproj.CoreCompileInputs.cache
+Operadores/Matemáticos e de atribuição/obj/Debug/net8.0/Operadores.csproj.FileListAbsolute.txt
+Operadores/Matemáticos e de atribuição/obj/Debug/net8.0/Operadores.GeneratedMSBuildEditorConfig.editorconfig
+Operadores/Matemáticos e de atribuição/obj/Debug/net8.0/Operadores.genruntimeconfig.cache
+Operadores/Matemáticos e de atribuição/obj/Debug/net8.0/Operadores.GlobalUsings.g.cs
+Operadores/Matemáticos e de atribuição/obj/Debug/net8.0/Operadores.pdb
+Operadores/Matemáticos e de atribuição/obj/Debug/net8.0/Operadores.sourcelink.json
+SwitchCase/bin/Debug/net8.0/SwitchCase.deps.json
+SwitchCase/bin/Debug/net8.0/SwitchCase.pdb
+SwitchCase/bin/Debug/net8.0/SwitchCase.runtimeconfig.json
+SwitchCase/obj/project.assets.json
+SwitchCase/obj/project.nuget.cache
+SwitchCase/obj/SwitchCase.csproj.nuget.dgspec.json
+SwitchCase/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+SwitchCase/obj/Debug/net8.0/SwitchCase.AssemblyInfo.cs
+SwitchCase/obj/Debug/net8.0/SwitchCase.AssemblyInfoInputs.cache
+SwitchCase/obj/Debug/net8.0/SwitchCase.assets.cache
+SwitchCase/obj/Debug/net8.0/SwitchCase.csproj.CoreCompileInputs.cache
+SwitchCase/obj/Debug/net8.0/SwitchCase.csproj.FileListAbsolute.txt
+SwitchCase/obj/Debug/net8.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+SwitchCase/obj/Debug/net8.0/SwitchCase.genruntimeconfig.cache
+SwitchCase/obj/Debug/net8.0/SwitchCase.GlobalUsings.g.cs
+SwitchCase/obj/Debug/net8.0/SwitchCase.pdb
+SwitchCase/obj/Debug/net8.0/SwitchCase.sourcelink.json
+Operadores/bin/Debug/net8.0/Operadores.deps.json
+Operadores/bin/Debug/net8.0/Operadores.pdb
+Operadores/bin/Debug/net8.0/Operadores.runtimeconfig.json
+Operadores/Lógicos/AND/net8.0/SwitchCase.deps.json
+Operadores/Lógicos/AND/net8.0/SwitchCase.pdb
+Operadores/Lógicos/AND/net8.0/SwitchCase.runtimeconfig.json
+Operadores/Lógicos/AND/obj/project.assets.json
+Operadores/Lógicos/AND/obj/project.nuget.cache
+Operadores/Lógicos/AND/obj/SwitchCase.csproj.nuget.dgspec.json
+Operadores/Lógicos/AND/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+Operadores/Lógicos/AND/obj/Debug/net8.0/SwitchCase.AssemblyInfo.cs
+Operadores/Lógicos/AND/obj/Debug/net8.0/SwitchCase.AssemblyInfoInputs.cache
+Operadores/Lógicos/AND/obj/Debug/net8.0/SwitchCase.assets.cache
+Operadores/Lógicos/AND/obj/Debug/net8.0/SwitchCase.csproj.CoreCompileInputs.cache
+Operadores/Lógicos/AND/obj/Debug/net8.0/SwitchCase.csproj.FileListAbsolute.txt
+Operadores/Lógicos/AND/obj/Debug/net8.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+Operadores/Lógicos/AND/obj/Debug/net8.0/SwitchCase.genruntimeconfig.cache
+Operadores/Lógicos/AND/obj/Debug/net8.0/SwitchCase.GlobalUsings.g.cs
+Operadores/Lógicos/AND/obj/Debug/net8.0/SwitchCase.pdb
+Operadores/Lógicos/AND/obj/Debug/net8.0/SwitchCase.sourcelink.json
+Operadores/Lógicos/E/bin/Debug/net8.0/SwitchCase.deps.json
+Operadores/Lógicos/E/bin/Debug/net8.0/SwitchCase.pdb
+Operadores/Lógicos/E/bin/Debug/net8.0/SwitchCase.runtimeconfig.json
+Operadores/Lógicos/E/net8.0/SwitchCase.deps.json
+Operadores/Lógicos/E/net8.0/SwitchCase.pdb
+Operadores/Lógicos/E/net8.0/SwitchCase.runtimeconfig.json
+Operadores/Lógicos/E/obj/project.assets.json
+Operadores/Lógicos/E/obj/project.nuget.cache
+Operadores/Lógicos/E/obj/SwitchCase.csproj.nuget.dgspec.json
+Operadores/Lógicos/E/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+Operadores/Lógicos/E/obj/Debug/net8.0/SwitchCase.AssemblyInfo.cs
+Operadores/Lógicos/E/obj/Debug/net8.0/SwitchCase.AssemblyInfoInputs.cache
+Operadores/Lógicos/E/obj/Debug/net8.0/SwitchCase.assets.cache
+Operadores/Lógicos/E/obj/Debug/net8.0/SwitchCase.csproj.CoreCompileInputs.cache
+Operadores/Lógicos/E/obj/Debug/net8.0/SwitchCase.csproj.FileListAbsolute.txt
+Operadores/Lógicos/E/obj/Debug/net8.0/SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+Operadores/Lógicos/E/obj/Debug/net8.0/SwitchCase.genruntimeconfig.cache
+Operadores/Lógicos/E/obj/Debug/net8.0/SwitchCase.GlobalUsings.g.cs
+Operadores/Lógicos/E/obj/Debug/net8.0/SwitchCase.pdb
+Operadores/Lógicos/E/obj/Debug/net8.0/SwitchCase.sourcelink.json
+Operadores/Lógicos/NOT/bin/Debug/net8.0/NOT.deps.json
+Operadores/Lógicos/NOT/bin/Debug/net8.0/NOT.pdb
+Operadores/Lógicos/NOT/bin/Debug/net8.0/NOT.runtimeconfig.json
+Operadores/Lógicos/NOT/obj/NOT.csproj.nuget.dgspec.json
+Operadores/Lógicos/NOT/obj/project.assets.json
+Operadores/Lógicos/NOT/obj/project.nuget.cache
+Operadores/Lógicos/NOT/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+Operadores/Lógicos/NOT/obj/Debug/net8.0/NOT.AssemblyInfo.cs
+Operadores/Lógicos/NOT/obj/Debug/net8.0/NOT.AssemblyInfoInputs.cache
+Operadores/Lógicos/NOT/obj/Debug/net8.0/NOT.assets.cache
+Operadores/Lógicos/NOT/obj/Debug/net8.0/NOT.csproj.CoreCompileInputs.cache
+Operadores/Lógicos/NOT/obj/Debug/net8.0/NOT.csproj.FileListAbsolute.txt
+Operadores/Lógicos/NOT/obj/Debug/net8.0/NOT.GeneratedMSBuildEditorConfig.editorconfig
+Operadores/Lógicos/NOT/obj/Debug/net8.0/NOT.genruntimeconfig.cache
+Operadores/Lógicos/NOT/obj/Debug/net8.0/NOT.GlobalUsings.g.cs
+Operadores/Lógicos/NOT/obj/Debug/net8.0/NOT.pdb
+Operadores/Lógicos/NOT/obj/Debug/net8.0/NOT.sourcelink.json
+Operadores/bin/Debug/net8.0/Operadores.deps.json
+Operadores/bin/Debug/net8.0/Operadores.pdb
+Operadores/bin/Debug/net8.0/Operadores.runtimeconfig.json
+Operadores/bin/Debug/net8.0/Operadores.deps.json
+Operadores/bin/Debug/net8.0/Operadores.pdb
+Operadores/bin/Debug/net8.0/Operadores.runtimeconfig.json
